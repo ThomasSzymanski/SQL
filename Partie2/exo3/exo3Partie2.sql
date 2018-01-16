@@ -1,9 +1,8 @@
 USE `webDevelopment`;
 CREATE TABLE IF NOT EXISTS `frameworks`(
 	`id` INT AUTO_INCREMENT PRIMARY KEY,
-	`name` VARCHAR(50) NOT NULL,
+	`name` VARCHAR(50),
 )
-ENGINE = INNODB;
 
 SHOW TABLES; 
 DESCRIBE `frameworks`; 
