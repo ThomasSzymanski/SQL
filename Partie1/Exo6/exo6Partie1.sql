@@ -1,1 +1,1 @@
-DROP DATABASE IF EXISTS frameworks;
+DROP DATABASE IF EXISTS `frameworks`;

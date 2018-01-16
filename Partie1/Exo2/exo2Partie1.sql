@@ -1,1 +1,1 @@
-CREATE DATABASE webDevelopment CHARACTER SET 'utf8';
+CREATE DATABASE `webDevelopment` CHARACTER SET 'utf8';

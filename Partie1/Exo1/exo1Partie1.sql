@@ -1,1 +1,1 @@
-CREATE DATABASE languages;
+CREATE DATABASE `languages`;

@@ -1,1 +1,1 @@
-DROP DATABASE IF EXISTS languages;
+DROP DATABASE IF EXISTS `languages`;

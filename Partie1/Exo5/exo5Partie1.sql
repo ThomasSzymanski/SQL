@@ -1,1 +1,1 @@
-DROP DATABASE languages;
+DROP DATABASE `languages`;
