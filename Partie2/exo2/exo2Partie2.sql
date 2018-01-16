@@ -1,0 +1,9 @@
+USE `webDevelopment`;
+CREATE TABLE IF NOT EXISTS `tools`(
+	`id` INT AUTO_INCREMENT PRIMARY KEY,
+	`tool` VARCHAR(50) NOT NULL,
+)
+ENGINE = INNODB;
+
+SHOW TABLES;   
+DESCRIBE `tools`; 

@@ -1,0 +1,9 @@
+USE `webDevelopment`;
+CREATE TABLE IF NOT EXISTS `languages`(
+	`id` INT AUTO_INCREMENT PRIMARY KEY,
+	`language` VARCHAR(50) NOT NULL,
+)
+ENGINE = INNODB;
+
+SHOW TABLES;   
+DESCRIBE `languages`;
