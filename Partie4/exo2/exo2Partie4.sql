@@ -1,7 +1,6 @@
 USE `webDevelopment`;
-INSERT INTO `frameworks`(
-	VALUES (1, 'Symfony', 'version 2.8'),
-	VALUES (2, 'Symfony', 'version 3'),
-	VALUES (3, 'Jquery', 'version 1.6'),
-	VALUES (4, 'Jquery', 'version 2.10')
-);
+INSERT INTO `frameworks` (`framework`,`version`) VALUES
+	('Symfony', 'version 2.8'),
+	('Symfony', 'version 3'),
+	('Jquery', 'version 1.6'),
+	('Jquery', 'version 2.10');

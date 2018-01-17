@@ -1,2 +1,2 @@
 USE `webDevelopment`;
-SELECT * FROM languages;
+SELECT * FROM `languages`;

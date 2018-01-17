@@ -1,3 +1,3 @@
 USE `webDevelopment`;
-ALTER TABLE languages
+ALTER TABLE `languages`
 ADD COLUMN `versions` VARCHAR(10);
